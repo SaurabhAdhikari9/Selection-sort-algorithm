@@ -1,8 +1,0 @@
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\bin\Debug\selectionSort_csharp.exe.config
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\bin\Debug\selectionSort_csharp.exe
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\bin\Debug\selectionSort_csharp.pdb
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\obj\Debug\selectionSort_csharp.csproj.AssemblyReference.cache
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\obj\Debug\selectionSort_csharp.csproj.SuggestedBindingRedirects.cache
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\obj\Debug\selectionSort_csharp.csproj.CoreCompileInputs.cache
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\obj\Debug\selectionSort_csharp.exe
-C:\Users\saura\Desktop\C# prac\selectionSort_csharp\selectionSort_csharp\obj\Debug\selectionSort_csharp.pdb
